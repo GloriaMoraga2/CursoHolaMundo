@@ -11,5 +11,6 @@ function menorMayor() {
   } else {
     alert("El número menor es: " + num2);
     alert("El número mayor es: " + num1);
+    alert("un cambio");
   }
 }
