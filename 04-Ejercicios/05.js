@@ -13,4 +13,5 @@ function menorMayor() {
     alert("El número mayor es: " + num1);
     alert("un cambio");
   }
+  alert("otro cambio");
 }
